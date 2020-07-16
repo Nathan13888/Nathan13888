@@ -1,6 +1,8 @@
 ## Hi I'm Nathan 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=nathan13888.visiter.badge)
+![HitCount](http://hits.dwyl.com/Nathan13888/Nathan13888.svg)
+
+<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=nathan13888.visiter.badge)-->
 
 ![Nathan's github stats](https://github-readme-stats.vercel.app/api?username=Nathan13888&show_icons=true)
 <!--
