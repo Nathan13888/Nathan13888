@@ -1,5 +1,7 @@
 ## Hi I'm Nathan 👋
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=nathan13888.visiter.badge)
+
 ![Nathan's github stats](https://github-readme-stats.vercel.app/api?username=Nathan13888&show_icons=true)
 <!--
 **Nathan13888/nathan13888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
