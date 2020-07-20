@@ -2,15 +2,16 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=nathan13888.visiter.badge)
 
+[![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat-square&logo=ubuntu&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
+[![](https://img.shields.io/badge/Editor-VSCodeInsiders-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/Editor-Neovim-blue?style=flat-square&logo=vim&logoColor=white)](https://code.visualstudio.com/)
+
 ![](https://github-readme-stats.vercel.app/api?username=Nathan13888&show_icons=true&title_color=fff&icon_color=87CEFA&text_color=9f9f9f&bg_color=151515)
 
 ---
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-```text
-
-```
 <!--END_SECTION:waka-->
 
 ---
