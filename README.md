@@ -25,7 +25,7 @@ Markdown    0 secs              ░░░░░░░░░░░░░░░░
 
 ---
 
-### Recent Activity
+### Recent Public Activity
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4](https://github.com//jwenjian/visitor-badge/issues/4) in [jwenjian/visitor-badge](https://github.com//jwenjian/visitor-badge)
