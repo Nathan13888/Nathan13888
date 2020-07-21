@@ -12,7 +12,7 @@
 
 ---
 
-<--### 📊 Weekly Development Breakdown-->
+<!--### 📊 Weekly Development Breakdown-->
 <!--START_SECTION:waka-->
 📊 **This week I spent my time on** 
 
