@@ -8,6 +8,8 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Nathan13888&show_icons=true&theme=dracula&hide=["stars"])
 
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan13888)-->
+
 ---
 
 ### 📊 Weekly Development Breakdown
