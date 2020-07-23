@@ -6,7 +6,7 @@
 [![](https://img.shields.io/badge/Editor-VSCodeInsiders-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Editor-Neovim-blue?style=flat-square&logo=vim&logoColor=white)](https://github.com/neovim/neovim)
 
-![](https://github-readme-stats.vercel.app/api?username=Nathan13888&show_icons=true&theme=dracula&hide=["stars"])
+![](https://github-readme-stats.vercel.app/api?username=Nathan13888&show_icons=true&theme=dracula&hide=["stars"]&count_private=true)
 
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan13888)-->
 
