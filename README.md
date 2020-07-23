@@ -39,14 +39,11 @@ Linux                    1 hr 21 mins        ███████████�
 
 <!--END_SECTION:waka-->
 
+<!--
 ---
-
+-->
+<!--
 ### Recent Public Activity
-
+-->
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#148](https://github.com//anuraghazra/github-readme-stats/issues/148) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
-2. 🗣 Commented on [#148](https://github.com//anuraghazra/github-readme-stats/issues/148) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
-3. 🗣 Commented on [#139](https://github.com//anuraghazra/github-readme-stats/issues/139) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
-4. ❗️ Opened issue [#139](https://github.com//anuraghazra/github-readme-stats/issues/139) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
-5. 🗣 Commented on [#4](https://github.com//jwenjian/visitor-badge/issues/4) in [jwenjian/visitor-badge](https://github.com//jwenjian/visitor-badge)
 <!--END_SECTION:activity-->
