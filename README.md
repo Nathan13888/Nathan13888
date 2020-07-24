@@ -1,4 +1,4 @@
-## Hi I'm Nathan 👋
+## Hey, I'm Nathan 👋
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=nathan13888.visiter.badge)
 
