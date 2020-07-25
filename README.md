@@ -7,7 +7,11 @@
 [![](https://img.shields.io/badge/Editor-Neovim-blue?style=flat-square&logo=vim&logoColor=white)](https://github.com/neovim/neovim)
 
 ![](https://github-readme-stats.vercel.app/api?username=Nathan13888&show_icons=true&theme=dracula&hide=stars&count_private=true)
+
+Publicly Hosted Version:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan13888&theme=dracula)
+Self-deployed Version:
+![](https://github-readme-stats-nathan13888-git-master.nathan13888.vercel.app/api/top-langs/?username=Nathan13888&theme=dracula)
 
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan13888)-->
 
