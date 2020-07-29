@@ -8,24 +8,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Nathan13888&show_icons=true&theme=dracula&hide=stars&count_private=true)
 
-#### Publicly Hosted Version
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan13888&theme=dracula)
-#### Self-deployed Version
-![](https://github-readme-stats-nathan13888-git-master.nathan13888.vercel.app/api/top-langs/?username=Nathan13888&theme=dracula)
-
-<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan13888)-->
-
 ---
 
-<!--### 📊 Weekly Development Breakdown-->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-<!--
----
--->
-<!--
-### Recent Public Activity
--->
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
