@@ -1,4 +1,4 @@
-## Hey, I'm Nathan 👋
+## Hi there! I'm Nathan 👋
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=nathan13888.visiter.badge)
 
@@ -11,6 +11,7 @@
 
 ---
 
+# Waka-Readme
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
