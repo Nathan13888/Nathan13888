@@ -4,7 +4,7 @@
 
 [![](https://img.shields.io/badge/OS-Ubuntu-blue?style=flat-square&logo=ubuntu&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 [![](https://img.shields.io/badge/Editor-VSCodeInsiders-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/Editor-Neovim-blue?style=flat-square&logo=vim&logoColor=white)](https://github.com/neovim/neovim)
+[![](https://img.shields.io/badge/Editor-Neovim-blue?style=flat-square&logo=neovim&logoColor=white)](https://github.com/neovim/neovim)
 
 ![](https://github-readme-stats.vercel.app/api?username=Nathan13888&show_icons=true&hide=stars&hide_border=true&title_color=fdaaaa&text_color=fdaaaa&icon_color=fdaaaa&count_private=true&include_all_commits=true)
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan13888&theme=dracula)-->
