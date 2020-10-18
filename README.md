@@ -2,15 +2,17 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=nathan13888.visiter.badge)
 
+### TOOLS
 [![](https://img.shields.io/badge/OS-Arch-1793D1?style=flat-square&logo=arch-linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
-[![](https://img.shields.io/badge/Server_OS-Debian-1793D1?style=flat-square&logo=debian&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
+[![](https://img.shields.io/badge/Server_OS-Debian-A81D33?style=flat-square&logo=debian&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 [![](https://img.shields.io/badge/Editor-VS_Code_Insiders-24bfa5?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Editor-Neovim-66aa4a?style=flat-square&logo=neovim&logoColor=white)](https://github.com/neovim/neovim)
 [![](https://img.shields.io/badge/Browser-Firefox_Nightly-524dc3?style=flat-square&logo=firefox-browser&logoColor=white)](https://www.mozilla.org/en-US/firefox/new/)
-[![](https://img.shields.io/badge/Browser-Firefox_Nightly-524dc3?style=flat-square&logo=firefox-browser&logoColor=white)](https://www.mozilla.org/en-US/firefox/new/)
-[![](https://img.shields.io/badge/Messenging-Discord-524dc3?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
+[![](https://img.shields.io/badge/Terminal-Oh_My_ZSH-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.mozilla.org/en-US/firefox/new/)
+[![](https://img.shields.io/badge/Messenging-Discord-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
 
 ![](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
