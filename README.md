@@ -2,7 +2,8 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=nathan13888.visiter.badge)
 
-### TOOLS
+### 🛠 Tools
+
 [![](https://img.shields.io/badge/OS-Arch-1793D1?style=flat-square&logo=arch-linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 [![](https://img.shields.io/badge/Server_OS-Debian-A81D33?style=flat-square&logo=debian&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 [![](https://img.shields.io/badge/Editor-VS_Code_Insiders-24bfa5?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
@@ -10,6 +11,8 @@
 [![](https://img.shields.io/badge/Browser-Firefox_Nightly-524dc3?style=flat-square&logo=firefox-browser&logoColor=white)](https://www.mozilla.org/en-US/firefox/new/)
 [![](https://img.shields.io/badge/Terminal-Oh_My_ZSH-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.mozilla.org/en-US/firefox/new/)
 [![](https://img.shields.io/badge/Messenging-Discord-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
+
+### ⚙️ Technologies
 
 ![](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
