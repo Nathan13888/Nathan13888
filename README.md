@@ -16,6 +16,9 @@
 
 ![](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/-Typescript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
