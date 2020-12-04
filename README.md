@@ -30,8 +30,10 @@
 ![](https://img.shields.io/badge/-Digital_Ocean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
 ![](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api?username=Nathan13888&show_icons=true&hide=stars&hide_border=true&bg_color=282a36&title_color=fdaaaa&text_color=fdaaaa&icon_color=fdaaaa&count_private=true&include_all_commits=true)
-<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan13888&theme=dracula)-->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nathan13888&show_icons=true&hide=stars&hide_border=true&bg_color=282a36&title_color=fdaaaa&text_color=fdaaaa&icon_color=fdaaaa&count_private=true&include_all_commits=true">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nathan13888&theme=onedark&column=6">
+</p>
 
 ---
 
