@@ -7,7 +7,7 @@
 [![](https://img.shields.io/badge/OS-Arch-1793D1?style=flat-square&logo=arch-linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 [![](https://img.shields.io/badge/Server_OS-Debian-A81D33?style=flat-square&logo=debian&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 [![](https://img.shields.io/badge/Editor-VS_Code_Insiders-24bfa5?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/Editor-Neovim-66aa4a?style=flat-square&logo=neovim&logoColor=white)](https://github.com/neovim/neovim)
+[![](https://img.shields.io/badge/Editor-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)](https://github.com/neovim/neovim)
 [![](https://img.shields.io/badge/Browser-Firefox_Nightly-524dc3?style=flat-square&logo=firefox-browser&logoColor=white)](https://www.mozilla.org/en-US/firefox/new/)
 [![](https://img.shields.io/badge/Terminal-Oh_My_ZSH-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.mozilla.org/en-US/firefox/new/)
 [![](https://img.shields.io/badge/Messenging-Discord-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
@@ -22,8 +22,8 @@
 ![](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
 ![](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
-<!--Kubernetes-->
-<!--MARKDOWN-->
+![](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 ![](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![](https://img.shields.io/badge/-Digital_Ocean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
