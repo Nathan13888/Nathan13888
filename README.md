@@ -13,7 +13,9 @@
 [![](https://img.shields.io/badge/Editor-VS_Code_Insiders-24bfa5?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Editor-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)](https://github.com/neovim/neovim)
 [![](https://img.shields.io/badge/Browser-Firefox_Nightly-524dc3?style=flat-square&logo=firefox-browser&logoColor=white)](https://www.mozilla.org/en-US/firefox/new/)
-[![](https://img.shields.io/badge/Terminal-ZSH-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.mozilla.org/en-US/firefox/new/)
+
+[![](https://img.shields.io/badge/Emulator-Alacritty-F46D01?style=flat-square&logo=alacritty&logoColor=white)](https://github.com/alacritty/alacritty)
+[![](https://img.shields.io/badge/Terminal-ZSH-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)](https://github.com/ohmyzsh/ohmyzsh)
 [![](https://img.shields.io/badge/Chatting-Discord-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
 [![](https://img.shields.io/badge/Chatting-Signal-2592E9?style=flat-square&logo=signal&logoColor=white)](https://www.signal.org/)
 ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
