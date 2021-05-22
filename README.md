@@ -2,7 +2,7 @@
 <!--<img src="https://i.ibb.co/sg1PbY6/veI5xzMF.gif">-->
 <!--<h1><img src="https://emojis.slackmojis.com/emojis/images/1562883039/5948/bongo_blob.gif?1562883039" width="30"> <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="30"> <img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="45"> I'm Nathan~! <img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="45"> <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="30"> <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4595/blob-turtle.gif?1536351075" width="35"><h1>-->
 
-![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=nathan13888-visitor-badge-reloaded&color=f77809&style=flat-square&logo=Github&cache=on)
+[![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=nathan13888-visitor-badge-reloaded&color=f77809&style=flat-square&logo=Github&cache=on)](https://github.com/Nathan13888/VisitorBadgeReloaded)
 
 ## 🛠 Things I use...
 
@@ -16,8 +16,8 @@
 
 [![](https://img.shields.io/badge/Emulator-Alacritty-F46D01?style=flat-square&logo=alacritty&logoColor=white)](https://github.com/alacritty/alacritty)
 [![](https://img.shields.io/badge/Terminal-ZSH-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)](https://github.com/ohmyzsh/ohmyzsh)
-[![](https://img.shields.io/badge/Chatting-Discord-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
-[![](https://img.shields.io/badge/Chatting-Signal-2592E9?style=flat-square&logo=signal&logoColor=white)](https://www.signal.org/)
+[![](https://img.shields.io/badge/Messaging-Discord-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
+[![](https://img.shields.io/badge/Messaging-Signal-2592E9?style=flat-square&logo=signal&logoColor=white)](https://www.signal.org/)
 ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -38,9 +38,17 @@
 
 ## Here are some stats...
 
+<!-- Profile Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nathan13888&show_icons=true&hide=stars&hide_border=true&bg_color=282a36&title_color=fdaaaa&text_color=fdaaaa&icon_color=fdaaaa&count_private=true&include_all_commits=true">
-  <!--<img src="https://github-profile-trophy.vercel.app/?username=Nathan13888&theme=onedark&column=6">-->
+  <img src="https://github-readme-stats.vercel.app/api?username=Nathan13888&show_icons=true&hide=stars&count_private=true&include_all_commits=true&hide_border=true&bg_color=282a36&title_color=fdaaaa&text_color=fdaaaa&icon_color=fdaaaa">
+
+<!-- Github Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan13888&langs_count=8&layout=compact&hide_border=true&bg_color=282a36&title_color=fdaaaa&text_color=ffffff&icon_color=fdaaaa">
+
+<!-- Waka Weekly Languages-->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nathan13888&range=last_7_days&hide_border=true&bg_color=282a36&title_color=ffffff&text_color=fdaaaa&icon_color=fdaaaa">
 </p>
 
 <!--START_SECTION:waka-->
