@@ -48,7 +48,7 @@
 
 <!-- Waka Weekly Languages-->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nathan13888&range=last_7_days&hide_border=true&bg_color=282a36&title_color=ffffff&text_color=fdaaaa&icon_color=fdaaaa">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nathan13888&layout=compact&hide_border=true&bg_color=282a36&title_color=ffffff&text_color=fdaaaa&icon_color=fdaaaa">
 </p>
 
 <!--START_SECTION:waka-->
