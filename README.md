@@ -2,22 +2,22 @@
 <!--<img src="https://i.ibb.co/sg1PbY6/veI5xzMF.gif">-->
 <!--<h1><img src="https://emojis.slackmojis.com/emojis/images/1562883039/5948/bongo_blob.gif?1562883039" width="30"> <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="30"> <img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="45"> I'm Nathan~! <img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="45"> <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="30"> <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4595/blob-turtle.gif?1536351075" width="35"><h1>-->
 
-[![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=nathan13888-visitor-badge-reloaded&color=f77809&style=flat-square&logo=Github&cache=on)](https://github.com/Nathan13888/VisitorBadgeReloaded)
+[![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=nathan13888-visitor-badge-reloaded&lcolor=111111&color=f77809&style=flat-square&logo=Github&cache=on)](https://github.com/Nathan13888/VisitorBadgeReloaded)
 
 ## 🛠 Things I use...
 
-[![](https://img.shields.io/badge/OS-Arch-1793D1?style=flat-square&logo=arch-linux&logoColor=white)](https://archlinux.org/)
-[![](https://img.shields.io/badge/OS-Artix-10A0CC?style=flat-square&logo=artix-linux&logoColor=white)](https://artixlinux.org/)
-[![](https://img.shields.io/badge/Server_OS-Debian-A81D33?style=flat-square&logo=debian&logoColor=white)](https://www.debian.org/)
-[![](https://img.shields.io/badge/Server_OS-Alpine-0D597F?style=flat-square&logo=alpine-linux&logoColor=white)](https://alpinelinux.org/)
-[![](https://img.shields.io/badge/Editor-VS_Code_Insiders-24bfa5?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/Editor-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)](https://github.com/neovim/neovim)
-[![](https://img.shields.io/badge/Browser-Firefox_Nightly-524dc3?style=flat-square&logo=firefox-browser&logoColor=white)](https://www.mozilla.org/en-US/firefox/new/)
+[![](https://img.shields.io/badge/OS-Arch-1793D1?labelColor=111111&style=flat-square&logo=arch-linux&logoColor=white)](https://archlinux.org/)
+[![](https://img.shields.io/badge/OS-Artix-10A0CC?labelColor=111111&style=flat-square&logo=artix-linux&logoColor=white)](https://artixlinux.org/)
+[![](https://img.shields.io/badge/Server_OS-Debian-A81D33?labelColor=111111&style=flat-square&logo=debian&logoColor=white)](https://www.debian.org/)
+[![](https://img.shields.io/badge/Server_OS-Alpine-0D597F?labelColor=111111&style=flat-square&logo=alpine-linux&logoColor=white)](https://alpinelinux.org/)
+[![](https://img.shields.io/badge/Editor-VS_Code_Insiders-24bfa5?labelColor=111111&style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/Editor-Neovim-57A143?labelColor=111111&style=flat-square&logo=neovim&logoColor=white)](https://github.com/neovim/neovim)
+[![](https://img.shields.io/badge/Browser-Firefox_Nightly-524dc3?labelColor=111111&style=flat-square&logo=firefox-browser&logoColor=white)](https://www.mozilla.org/en-US/firefox/new/)
 
-[![](https://img.shields.io/badge/Emulator-Alacritty-F46D01?style=flat-square&logo=alacritty&logoColor=white)](https://github.com/alacritty/alacritty)
-[![](https://img.shields.io/badge/Terminal-ZSH-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)](https://github.com/ohmyzsh/ohmyzsh)
-[![](https://img.shields.io/badge/Messaging-Discord-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
-[![](https://img.shields.io/badge/Messaging-Signal-2592E9?style=flat-square&logo=signal&logoColor=white)](https://www.signal.org/)
+[![](https://img.shields.io/badge/Emulator-Alacritty-F46D01?labelColor=111111&style=flat-square&logo=alacritty&logoColor=white)](https://github.com/alacritty/alacritty)
+[![](https://img.shields.io/badge/Terminal-ZSH-4EAA25?labelColor=111111&style=flat-square&logo=gnu-bash&logoColor=white)](https://github.com/ohmyzsh/ohmyzsh)
+[![](https://img.shields.io/badge/Messaging-Discord-7289da?labelColor=111111&style=flat-square&logo=discord&logoColor=white)](https://discord.com)
+[![](https://img.shields.io/badge/Messaging-Signal-2592E9?labelColor=111111&style=flat-square&logo=signal&logoColor=white)](https://www.signal.org/)
 ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
