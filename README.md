@@ -43,8 +43,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Nathan13888&show_icons=true&hide=stars&count_private=true&include_all_commits=true&hide_border=true&bg_color=282a36&title_color=fdaaaa&text_color=fdaaaa&icon_color=fdaaaa">
 
 <!-- Github Top Languages -->
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan13888&langs_count=8&layout=compact&hide_border=true&bg_color=282a36&title_color=fdaaaa&text_color=ffffff&icon_color=fdaaaa">
+</p>
 
 <!-- Waka Weekly Languages-->
 <p align="center">
