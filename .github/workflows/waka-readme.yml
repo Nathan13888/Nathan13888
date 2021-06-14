@@ -7,7 +7,7 @@ on:
 
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: Update waka-readme-stats
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
@@ -19,6 +19,6 @@ jobs:
           SHOW_LINES_OF_CODE: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_SHORT_INFO: "False"
-          SHOW_LOC_CHART: "True"
-          SHOW_LANGUAGE: "False"
-          SHOW_TIMEZONE: "False"
+#          SHOW_LOC_CHART: "True"
+#          SHOW_LANGUAGE: "False"
+#          SHOW_TIMEZONE: "False"
