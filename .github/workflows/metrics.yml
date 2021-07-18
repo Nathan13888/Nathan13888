@@ -15,6 +15,7 @@ jobs:
     steps:
       - name: 📗 Classic template
         uses: lowlighter/metrics@latest
+        if: ${{ success() || failure() }}
         with:
           filename: metrics.classic.svg
           token: ${{ secrets.GH_TOKEN }}# ${{ secrets.METRICS_TOKEN }}
@@ -26,6 +27,7 @@ jobs:
           
       - name: 🏆 Achievements
         uses: lowlighter/metrics@latest
+        if: ${{ success() || failure() }}
         with:
           plugin_achievements: yes
           plugin_achievements_threshold: B       # Display achievements with rank B or higher
@@ -35,12 +37,14 @@ jobs:
 
       - name: 📅 Isocalendar plugin
         uses: lowlighter/metrics@latest
+        if: ${{ success() || failure() }}
         with:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
       
       - name: 🎭 Reactions plugin
         uses: lowlighter/metrics@latest
+        if: ${{ success() || failure() }}
         with:
           plugin_reactions: yes
           plugin_reactions_limit: 200                 # Compute reactions over last 200 issue comments
@@ -51,6 +55,7 @@ jobs:
         
       - name: ⏰ WakaTime plugin
         uses: lowlighter/metrics@latest
+        if: ${{ success() || failure() }}
         with:
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }} #${{ secrets.WAKATIME_TOKEN }}      # Required
