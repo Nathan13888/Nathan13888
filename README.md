@@ -6,14 +6,13 @@
 <p align='center'>
   <a href="https://linkedin.com/in/nathan-mc-chung"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
   <a href="https://twitter.com/nathan13888"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://github.com/Nathan13888/VisitorBadgeReloaded" style="text-decoration: none;">
+    <img src="https://vbr.nathanchung.dev/badge?page_id=nathan13888-visitor-badge-reloaded&color=779BE7&lcolor=&style=for-the-badge&logo=Github&logoColor=white&custom=CNT%20Views&text=&color=ffffff" alt="Visitor Badge Reloaded">
+</a>
 </p>
 
 
 <div align="center">
-
-<a href="https://github.com/Nathan13888/VisitorBadgeReloaded" style="text-decoration: none;">
-    <img src="https://vbr.nathanchung.dev/badge?page_id=nathan13888-visitor-badge-reloaded&color=779BE7&lcolor=&style=for-the-badge&logo=Github&logoColor=white&custom=CNT%20Views&text=&color=ffffff" alt="Visitor Badge Reloaded">
-</a>
 
 <a href="https://nixos.org/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/OS-NixOS-5277C3?labelColor=111111&style=for-the-badge&logo=nixos&logoColor=white" alt="NixOS">
@@ -75,6 +74,12 @@
       <img src="https://github.com/Nathan13888/Nathan13888/blob/master/metrics.plugin.achievements.svg">
     </td>
   </tr>
+</table>
+
+
+<details>
+  <summary><i>More Stats</i></summary>
+<table>
   <tr>
     <td align="center">
       <img src="https://github.com/Nathan13888/Nathan13888/blob/master/metrics.plugin.languages.svg">
@@ -92,6 +97,7 @@
     </td
   </tr>
 </table>
+</details>
 
 <details>
   <summary><i>...</i></summary>
