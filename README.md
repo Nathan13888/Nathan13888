@@ -46,6 +46,8 @@
     <img src="https://img.shields.io/badge/Messaging-Matrix-000000?labelColor=111111&style=for-the-badge&logo=matrix&logoColor=white" alt="Matrix">
 </a>
 
+</div>
+
 <br>
 
 <!--
