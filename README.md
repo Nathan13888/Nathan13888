@@ -93,12 +93,6 @@
   </tr>
 </table>
 
-<!--
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nathan13888&theme=dracula">
--->
-
----
-
 <details>
   <summary><i>...</i></summary>
   <br>
