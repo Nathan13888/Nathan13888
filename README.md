@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1> 🔨 🛸 🌱 </h1>
+  <h1> 🌊 Hi, I'm Nathan 👋</h1>
 </div>
 
 <p align='center'>
@@ -65,16 +65,10 @@
 
 -->
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/Nathan13888/Nathan13888/blob/master/metrics.classic.svg">
-    </td>
-    <td align="center">
-      <img src="https://github.com/Nathan13888/Nathan13888/blob/master/metrics.plugin.achievements.svg">
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github.com/Nathan13888/Nathan13888/blob/master/metrics.classic.svg">
+</div>
+<!-- <img src="https://github.com/Nathan13888/Nathan13888/blob/master/metrics.plugin.achievements.svg"> -->
 
 
 <details>
