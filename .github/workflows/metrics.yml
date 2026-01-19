@@ -59,20 +59,20 @@ jobs:
           plugin_reactions_details: count, percentage # Display reactions count and percentage
           plugin_reactions_ignored: bot               # Ignore "bot" user
         
-      - name: ⏰ WakaTime plugin
-        uses: lowlighter/metrics@latest
-        if: ${{ success() || failure() }}
-        with:
-          filename: metrics.plugin.wakatime.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-          plugin_wakatime_days: 7
-          plugin_wakatime_sections: time, projects-graphs, languages-graphs, editors-graphs, os-graphs
-          plugin_wakatime_limit: 5
-          plugin_wakatime_url: https://wakatime.com
-          plugin_wakatime_user: Nathan13888
+      #- name: ⏰ WakaTime plugin
+      #  uses: lowlighter/metrics@latest
+      #  if: ${{ success() || failure() }}
+      #  with:
+      #    filename: metrics.plugin.wakatime.svg
+      #    token: NOT_NEEDED
+      #    base: ""
+      #    plugin_wakatime: yes
+      #    plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+      #    plugin_wakatime_days: 7
+      #    plugin_wakatime_sections: time, projects-graphs, languages-graphs, editors-graphs, os-graphs
+      #    plugin_wakatime_limit: 5
+      #    plugin_wakatime_url: https://wakatime.com
+      #    plugin_wakatime_user: Nathan13888
 
       - name: 📌 Topics plugin
         uses: lowlighter/metrics@latest
@@ -86,13 +86,13 @@ jobs:
           plugin_topics_sort: stars
           plugin_topics_mode: mastered
 
-      - name: 🈷️ Languages plugin
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.languages.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_languages: yes
-          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell
-          plugin_languages_limit: 8
+      #- name: 🈷️ Languages plugin
+      #  if: ${{ success() || failure() }}
+      #  uses: lowlighter/metrics@master
+      #  with:
+      #    filename: metrics.plugin.languages.svg
+      #    token: ${{ secrets.METRICS_TOKEN }}
+      #    base: ""
+      #    plugin_languages: yes
+      #    plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell
+      #    plugin_languages_limit: 8

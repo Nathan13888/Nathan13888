@@ -75,17 +75,17 @@
   <summary><i>More Stats</i></summary>
 <table>
   <tr>
-    <td align="center">
+    <!--<td align="center">
       <img src="https://github.com/Nathan13888/Nathan13888/blob/master/metrics.plugin.languages.svg">
-    </td>
+    </td>-->
     <td align="center">
       <img src="https://github.com/Nathan13888/Nathan13888/blob/master/metrics.plugin.reactions.svg">
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <!--<td align="center">
       <img src="https://github.com/Nathan13888/Nathan13888/blob/master/metrics.plugin.wakatime.svg">
-    </td>
+    </td>-->
     <td align="center">
       <img src="https://github.com/Nathan13888/Nathan13888/blob/master/metrics.plugin.isocalendar.svg">
     </td
